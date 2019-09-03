@@ -1,0 +1,1 @@
+polska:warszawa;węgry:budapeszt;niemcy:berlin;japonia:tokio;anglia:londyn;

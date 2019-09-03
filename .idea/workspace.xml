@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36b20cb6-e203-410e-886a-c4c232330711" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Programowanie1-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/panstwa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/1_Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/2_Zadania_rekurencja.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/3_ZadaniaTablice.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/rekurencja/Binarna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/rekurencja/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/rekurencja/Silnia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/rekurencja/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/rekurencja/Tablica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/tablice/CzyRosnasyMalejacy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/tablice/Dodawacz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/tablice/Fibonnaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/tablice/GdzieWiększy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/tablice/Indeksy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/tablice/Losowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Choinka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Iloczyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/LiczbaNaturalna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Limit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Linia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Love.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Nieparzyste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Pesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/StoElementów.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0303/zadania/Sześcian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/1_Zadania_collections.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Koło.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/ListaKol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Tab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_0903/lambdas/collections/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/1_Zadania_collections.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/KalkulatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/KalkulatorStreamem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/KalkulatorZKolejnościa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/Nawiasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/dequeues/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/dequeues/MyDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/dequeues/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/dequeues/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1003/collections/dequeues/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/Zadania_Schemat_NS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/Zadania_pseudo_kod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/algoritms/sorting/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/algoritms/sorting/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/algoritms/zadania/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/algoritms/zadania/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1603/algoritms/zadania/zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/BankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/ConsoleInputManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/ConsoleOutputManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/InputManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/OutputManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/SingleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/game/TttApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/DataPreparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/Employer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/GroceryMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/SalaryPayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/TestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/bank/BankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/bank/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/money/transfer/bank/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/ConcurrencyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/DataHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/b_functional/Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/c_generics/GenericsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/c_generics/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/d_time/TimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/d_time/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/Flat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/util/CityGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/util/CountryGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/util/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/util/FlatGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/e_oop/util/PersonGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/f_io/data/countries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/f_io/data/countriesAndCapitals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/f_io/data/first-names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/f_io/data/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/f_io/data/places.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/h_exceptions/ThrowableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/test/java/zadania_0903/lambdas/FunctionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/test/java/zadania_1603/algoritms/sorting/SortingChecks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/src/test/java/zadania_1603/algoritms/sorting/SortingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/rekurencja/Binarna.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/rekurencja/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/rekurencja/Silnia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/rekurencja/Suma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/rekurencja/Tablica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/tablice/CzyRosnasyMalejacy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/tablice/Dodawacz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/tablice/Fibonnaci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/tablice/GdzieWiększy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/tablice/Indeksy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/tablice/Losowa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Choinka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Iloczyn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/LiczbaNaturalna.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Limit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Linia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Love.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Nieparzyste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Pesel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Prostokat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/StoElementów.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0303/zadania/Sześcian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/Functional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Koło.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Lista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/ListaKol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Lotto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Tab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Task6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_0903/lambdas/collections/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/Kalkulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/KalkulatorMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/KalkulatorStreamem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/KalkulatorZKolejnościa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/Nawiasy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/dequeues/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/dequeues/MyDeque.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/dequeues/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/dequeues/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1003/collections/dequeues/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1603/algoritms/sorting/Sorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1603/algoritms/sorting/data/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1603/algoritms/zadania/Zad2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1603/algoritms/zadania/Zad3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1603/algoritms/zadania/zad1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1703/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1703/Zad1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1703/game/ConsoleOutputManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1703/game/SingleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1703/game/TttApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1703/money/transfer/bank/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zadania_1703/money/transfer/bank/CreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/a_concurency/ConcurrencyExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/a_concurency/examples/Adder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/a_concurency/examples/DataHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/a_concurency/examples/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/b_functional/Functional$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/b_functional/Functional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/c_generics/GenericsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/d_time/TimeExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/Country$OOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/Flat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/Gender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/OOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/World.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/util/CityGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/util/CountryGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/util/Creator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/util/FlatGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/e_oop/util/PersonGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programowanie1-master/target/classes/zajęcia_3003/h_exceptions/ThrowableExample.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Bank.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/Adder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programowanie1-master/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/Zadania.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/DataHolder.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/Adder.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="780" />
+    <option name="y" value="15" />
+    <option name="width" value="1075" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Programowanie1-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programowanie1-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programowanie1-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programowanie1-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Programowanie1-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b20cb6-e203-410e-886a-c4c232330711" name="Default Changelist" comment="" />
+      <created>1553935417217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553935417217</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Programowanie1-master" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Bank.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zadania_1703/Zad2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/Zadania.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/DataHolder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie1-master/src/main/java/zajęcia_3003/a_concurency/examples/Adder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie1-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
